@@ -36,13 +36,21 @@ Copy
 Edit
 solar-panel-detector/
 │
+
 ├── static/                  # CSS, JS, and uploaded images
+
 ├── templates/               # HTML files
+
 ├── model/                   # YOLO weights and config (if applicable)
+
 ├── app.py                   # Flask backend
+
 ├── detector.py              # Detection logic with OpenCV & YOLO
+
 ├── utils.py                 # Helper functions
+
 └── requirements.txt         # Dependencies
+
 
 # 📌 Future Improvements
 Add support for video detection
