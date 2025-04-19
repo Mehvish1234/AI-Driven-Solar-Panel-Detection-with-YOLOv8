@@ -1,7 +1,7 @@
-#☀️ Solar Panel Detection Using Deep Learning
+# ☀️ Solar Panel Detection Using Deep Learning
 This project automatically detects solar panels in images using a deep learning model integrated with a web-based interface. The solution combines Ultralytics YOLO, Flask, and OpenCV, providing both visual insights and analytical tools for image processing and detection.
 
-#🚀 Features
+# 🚀 Features
 📸 Upload an image to detect solar panels
 
 🤖 Uses YOLO (via Ultralytics) for object detection
@@ -14,7 +14,7 @@ This project automatically detects solar panels in images using a deep learning 
 
 🌐 Web interface with HTML, CSS, and JavaScript
 
-#🧠 Tech Stack
+# 🧠 Tech Stack
 
 OpenCV – For image preprocessing and drawing detection results
 
@@ -30,7 +30,7 @@ Pandas – For data handling and analysis
 
 Matplotlib – For visualizing detection stats or outputs
 
-#📁 Project Structure
+# 📁 Project Structure
 php
 Copy
 Edit
@@ -44,7 +44,7 @@ solar-panel-detector/
 ├── utils.py                 # Helper functions
 └── requirements.txt         # Dependencies
 
-#📌 Future Improvements
+# 📌 Future Improvements
 Add support for video detection
 
 Track detection confidence scores
@@ -53,9 +53,9 @@ Add cloud upload (e.g., AWS/GCP)
 
 Improve UI with live preview
 
-#🤝 Contributing
+# 🤝 Contributing
 Feel free to fork this repo and submit a pull request! Contributions are welcome.
 
-#📜 License
+# 📜 License
 This project is licensed under the MIT License.
 
