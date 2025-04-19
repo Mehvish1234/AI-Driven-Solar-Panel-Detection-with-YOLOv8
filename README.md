@@ -35,6 +35,7 @@ php
 Copy
 Edit
 solar-panel-detector/
+
 │
 
 ├── static/                  # CSS, JS, and uploaded images
